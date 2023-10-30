@@ -79,3 +79,30 @@ index 11d9623..669a8bd 100644
 \ No newline at end of file
 
 C:\Users\jesus\Desktop\Clase\Laboratorio>
+
+
+
+
+C:\Users\jesus\Desktop\Clase\Laboratorio>git diff v1.0 v2.0
+diff --git a/readme.md b/readme.md
+index 2a40829..319109e 100644
+--- a/readme.md
++++ b/readme.md
+@@ -49,4 +49,12 @@ Or undo this operation with:
+
+ Turn off this advice by setting config variable advice.detachedHead to false
+
+-HEAD is now at 6660ade Añadido2 readme.md
+\ No newline at end of file
++HEAD is now at 6660ade Añadido2 readme.md
++
++
++C:\Users\jesus\Desktop\Clase\Laboratorio>git tag v1.0
++
++C:\Users\jesus\Desktop\Clase\Laboratorio>git tag -d v1.0
++Deleted tag 'v1.0' (was f76d080)
++
++C:\Users\jesus\Desktop\Clase\Laboratorio>git tag v1.0
+\ No newline at end of file
+
+C:\Users\jesus\Desktop\Clase\Laboratorio>
