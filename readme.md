@@ -50,3 +50,11 @@ Or undo this operation with:
 Turn off this advice by setting config variable advice.detachedHead to false
 
 HEAD is now at 6660ade Añadido2 readme.md
+
+
+C:\Users\jesus\Desktop\Clase\Laboratorio>git tag v1.0
+
+C:\Users\jesus\Desktop\Clase\Laboratorio>git tag -d v1.0
+Deleted tag 'v1.0' (was f76d080)
+
+C:\Users\jesus\Desktop\Clase\Laboratorio>git tag v1.0
