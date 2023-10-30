@@ -27,3 +27,26 @@ Author: Jesús <jesus.gonzalez.garcia.2020@gmail.com>
 Date:   Mon Oct 30 16:06:13 2023 +0100
 
     Añadido readme.md
+
+
+
+
+C:\Users\jesus\Desktop\Clase\Laboratorio>git checkout 6660ade
+Note: switching to '6660ade'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 6660ade Añadido2 readme.md
