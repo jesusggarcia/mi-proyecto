@@ -18,3 +18,12 @@
    1. Subelemento 3.1
    2. Subelemento 3.2
 4. Cuarto elemento
+
+
+
+ C:\Users\jesus\Desktop\Clase\Laboratorio>git log
+commit 8551178b4e69c1f61635aeb4bdc4c27d6fa4accf (HEAD -> master)
+Author: Jesús <jesus.gonzalez.garcia.2020@gmail.com>
+Date:   Mon Oct 30 16:06:13 2023 +0100
+
+    Añadido readme.md
