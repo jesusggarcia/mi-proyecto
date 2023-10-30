@@ -58,3 +58,8 @@ C:\Users\jesus\Desktop\Clase\Laboratorio>git tag -d v1.0
 Deleted tag 'v1.0' (was f76d080)
 
 C:\Users\jesus\Desktop\Clase\Laboratorio>git tag v1.0
+
+
+
+1. diif
+2. dif
