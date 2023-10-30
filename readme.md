@@ -62,4 +62,20 @@ C:\Users\jesus\Desktop\Clase\Laboratorio>git tag v1.0
 
 
 1. diif
-2. dif
+2. 
+
+C:\Users\jesus\Desktop\Clase\Laboratorio>git diff
+diff --git a/readme.md b/readme.md
+index 11d9623..669a8bd 100644
+--- a/readme.md
++++ b/readme.md
+@@ -62,4 +62,4 @@ C:\Users\jesus\Desktop\Clase\Laboratorio>git tag v1.0
+
+
+ 1. diif
+-2. dif
+\ No newline at end of file
++2.
+\ No newline at end of file
+
+C:\Users\jesus\Desktop\Clase\Laboratorio>
