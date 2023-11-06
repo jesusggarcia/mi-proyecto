@@ -106,3 +106,16 @@ index 2a40829..319109e 100644
 \ No newline at end of file
 
 C:\Users\jesus\Desktop\Clase\Laboratorio>
+
+
+
+
+
+
+
+
+
+
+
+
+fhfhgfgushughsudfhgiu
